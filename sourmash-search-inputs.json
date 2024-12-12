@@ -1,0 +1,4 @@
+{
+    "SourmashSketchAndSearch.query_fastq": "/path/to/inputs/ecoli_ref-5m.fastq.gz",
+    "SourmashSketchAndSearch.database_fasta": "/path/to/inputs/ecoliMG1655.fa.gz"
+}
